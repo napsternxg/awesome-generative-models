@@ -5,6 +5,9 @@ Awesome list of generative models which can generate realistic looking content. 
 
 * [Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://arxiv.org/abs/1905.08233v1) - Generate talking head with facial landmarks from another video. [Demo](https://www.youtube.com/watch?v=p1b5aiTrGzY)
 
+# Video 
+
+* [Deep Flow-Guided Video Inpainting](https://nbei.github.io/video-inpainting.html) - Remove objects, watermarks from video, or do image in-painting. 
 
 # Audio
 
