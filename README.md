@@ -13,6 +13,7 @@ Awesome list of generative models which can generate realistic looking content. 
 
 * [Deep voice conversion](https://github.com/andabi/deep-voice-conversion) - Transfer phoneme content from one voice to another voice
 * [Lyrebird - realistic artificial voices](https://lyrebird.ai/) - Company specializing in creating voice avatars. 
+* [A Generative Model for Audio in the Frequency Domain](https://sjvasquez.github.io/blog/melnet/) - [Generated samples](https://audio-samples.github.io/)
 
 # Text
 
