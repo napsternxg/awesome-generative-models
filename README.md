@@ -4,6 +4,7 @@ Awesome list of generative models which can generate realistic looking content. 
 # Image
 
 * [Few-Shot Adversarial Learning of Realistic Neural Talking Head Models](https://arxiv.org/abs/1905.08233v1) - Generate talking head with facial landmarks from another video. [Demo](https://www.youtube.com/watch?v=p1b5aiTrGzY)
+* [This face does not exist](https://thispersondoesnotexist.com/) - Sample of fake generated faces
 
 # Video 
 
